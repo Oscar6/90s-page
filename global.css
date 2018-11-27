@@ -27,8 +27,57 @@ a.active {
 
 .biggie2 {
     display: block;
-    margin-top: 200px;
+    margin-top: 60px;
     margin-left: 100px;
     margin-right: auto;
     width: 45%;
+}
+
+.p1 {
+    font-size: 32px;
+    border-style: dotted;
+    width: 300px;
+    border: 10px dotted rgb(196, 124, 31);;
+    padding: 5px;
+    margin: 5px;
+    margin-top: 75px;
+    margin-left: 250px;
+    text-align: center;
+}
+
+.p3 {
+    font-size: 20px;
+    border-style: dotted;
+    width: 600px;
+    border: 10px dotted rgb(196, 124, 31);;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 75px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.rtd {
+    display: block;
+    margin-top: 60px;
+    margin-left: 5px;
+    width: 300px;
+}
+
+.lad {
+    display: block;
+    margin-top: -300px;
+    margin-left: 400px;
+    width: 300px;
+}
+
+.rtd1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 60px;
+}
+
+.lad1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -35px;
+    margin-left: 460px;
 }
